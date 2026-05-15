@@ -1,6 +1,6 @@
 # [2.0.12]
 
-- Fix an Android NullPointerException that sometimes occurred when apps are backgrounded.
+- Fix an Android NullPointerException that sometimes occurred when apps were backgrounded.
 
 # [2.0.11]
 
